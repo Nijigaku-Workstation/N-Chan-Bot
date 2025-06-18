@@ -1,0 +1,30 @@
+{
+    "MIRAI_API_URL": "http://localhost:8080",
+    "VERIFY_KEY": "your_verify_key",
+    "QQ_ID": 123456789,
+    "TARGET_IDs": [987654321],
+    "TARGET_IDs_list": [987654321, 123456789],
+    "USERNAME_LIST": [
+        "aguri_onishi",
+        "tomori_kusunoki",
+        "kaor1n_n",
+        "cocohayashi515",
+        "t_chiemi1006",
+        "MayuSgr",
+        "sashide_m",
+        "uchida_shu0524",
+        "iRis_k_miyu",
+        "natyaaaaaaan07",
+        "k_moeka_",
+        "kitoakari_1016",
+        "yano_hinaki35",
+        "homoto_akina",
+        "staff_aguri"
+    ],
+    "RSS_URLS": [
+        "http://localhost:14607/twitter/list/1923330090278306115/showQuotedAuthorAvatarInDesc=1&showAuthorInDesc=1&showAuthorAvatarInDesc=1"
+    ],
+    "api_key": "123456789",
+    "base_url": "https://api.deepseek.com",
+    "RSSHUB_BAT_PATH": "D:\\programs\\RSShub\\start_rsshub.bat"
+}
